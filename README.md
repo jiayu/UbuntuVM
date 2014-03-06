@@ -1,10 +1,13 @@
-###to start the vm, run
+This VM comes with RabbitMQ, Zookeeper and Hadoop installed
+ 
+####to start the vm, run
 vagrant up
 
 
-###visit rabbitMQ GUI on the browser of your host machine with the following path
+
+####visit rabbitMQ GUI 
 http://localhost:15672
 
 
-###Visit jobtracker
+####visit jobtracker
 http://localhost:50030
