@@ -1,10 +1,10 @@
-#to start the vm, run
+###to start the vm, run
 vagrant up
 
 
-#visit rabbitMQ GUI on the browser of your host machine with the following path
+###visit rabbitMQ GUI on the browser of your host machine with the following path
 http://localhost:15672
 
 
-#Visit jobtracker
+###Visit jobtracker
 http://localhost:50030
